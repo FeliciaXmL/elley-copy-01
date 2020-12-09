@@ -10,9 +10,8 @@ tags:
   - Sourcebit
 image: images/4.png
 excerpt: >-
-  olet a vobis, non intellegere nos, quam dicat Epicurus voluptatem. Sin kakan
-  malitiam dixisses, ad aliud nos unum certum vitium consuetudo Latina
-  traduceret.
+  m dicat Epicurus voluptatem. Sin kakan malitiam dixisses, ad aliud nos unum
+  certum vitium consuetudo Latina traduceret.
 layout: post
 ---
 
